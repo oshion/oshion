@@ -37,3 +37,6 @@ http://43.201.140.228:7000/
 - [🔗 Script 1 - My Favorite Commands] (https://github.com/oshion/linux-command)
 - [🔗 Script 2 - Check Running Application] (https://github.com/oshion/linux-restart-shellscript)
 - [🔗 Script 3 - Check Log File Size] (https://github.com/oshion/linux-check-filesize)
+- [🔗 Script 4 - AutoShutdown Application] (https://github.com/oshion/linux-autoshutdown-shellscript)
+- [🔗 Script 5 - Tomcat Config] (https://github.com/oshion/linux-tomcat-config)
+- [🔗 Script 6 - Ngixn Config] (https://github.com/oshion/linux-ngnix-config)
