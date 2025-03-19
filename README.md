@@ -30,7 +30,7 @@ http://43.201.140.228:7000/
 
 
 ## 💥 Vue.js Test Projects
-- [🔗 Project 1 - Personal Portfolio]
+- [🔗 Project 1 - Personal Portfolio] (https://github.com/oshion/vuejs-portfolio)
 
 ## 💻 Linux Server Scripts
 - [🔗 Script 1 - My Favorite Commands] (https://github.com/oshion/linux-command)
