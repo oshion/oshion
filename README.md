@@ -35,6 +35,5 @@ http://43.201.140.228:7000/
 
 ## 💻 Linux Server Scripts
 - [🔗 Script 1 - My Favorite Commands] (https://github.com/oshion/linux-command)
-- [🔗 Script 2 - Cron Scheduler]
-- [🔗 Script 3 - Check Running Application]
-- [🔗 Script 3 - Check Log File Size]
+- [🔗 Script 2 - Check Running Application] (https://github.com/oshion/linux-check-filesize)
+- [🔗 Script 3 - Check Log File Size] (https://github.com/oshion/linux-check-filesize)
