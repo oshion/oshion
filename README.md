@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 ## 😄 It's me!
 http://43.201.140.228:7000/
 
-## 🌟 Spring Boot Test Projects
-- [🔗 Project 1 - LLM ChatGPT API Chatbot Test] ()
+## 🚀 Spring Boot Application Structure
+- [🔗 Structure 1 - SpringBoot MultiModule]
+- [🔗 Structure 2 - SpringBoot DataBase Duplexing]
 
+## 🌟 Spring Boot Test Projects
+- [🔗 Project 1 - LLM ChatGPT API Chatbot Test] (https://github.com/oshion/java-llm-chatgptapi)
+- [🔗 Project 2 - SpringBoot JWT Token]
+- [🔗 Project 3 - SpringBoot Security? JWT 토큰이랑 같이?]
+- [🔗 Project 4 - Lazy Connection Throttling]
+- [🔗 Project 5 - JAVA SHA Encryption]
+
+
+## 💥 Vue.js Test Projects
+- [🔗 Project 1 - Personal Portfolio]
+
+## 💻 Linux Server Scripts
+- [🔗 Project 1 - My Favorite Commands]
+- [🔗 Project 2 - Cron Scheduler]
+- [🔗 Project 3 - Check Running Application]
+- [🔗 Project 3 - Check Log File Size]
