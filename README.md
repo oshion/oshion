@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 😄 It's me!
+http://43.201.140.228:7000/
+
+## 🌟 Spring Boot Test Projects
+- [🔗 Project 1 - LLM ChatGPT API Chatbot Test] ()
+
