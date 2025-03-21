@@ -25,8 +25,9 @@ http://43.201.140.228:7000/
 ## 🌟 Spring Boot Test Projects
 - [🔗 Project 1 - LLM ChatGPT API Chatbot Test] (https://github.com/oshion/java-llm-chatgptapi)
 - [🔗 Project 2 - SpringBoot JWT Token & Security] (https://github.com/oshion/springboot-JWT-Security)
-- [🔗 Project 3 - Lazy Connection Throttling]
+- [🔗 Project 3 - Rate Limiting Throttling] (https://github.com/oshion/springboot-ratelimiting-throttling)
 - [🔗 Project 4 - JAVA SHA Encryption]
+- [🔗 Project 5 - Global Execption]
 
 
 ## 💥 Vue.js Test Projects
