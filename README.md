@@ -29,6 +29,8 @@ Portfolio - http://43.201.140.228:7000/
 - [🔗 Project 4 - JAVA SHA Encryption]
 - [🔗 Project 5 - Global Execption]
 
+## 🌱 Model Context Protocol(MCP) Test Projects
+- [🔗 Project 1 - MCP Car Search Demo] (https://github.com/oshion/python-mcp-carsearch-demo)
 
 ## 💥 Vue.js & Nuxt.js Test Projects
 - [🔗 Project 1 - Personal Portfolio] (https://github.com/oshion/vuejs-portfolio)
