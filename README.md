@@ -34,7 +34,8 @@ Portfolio - (https://inhoochoi.com/)
 
 ## 💥 Vue.js & Nuxt.js Test Projects
 - [🔗 Project 1 - Personal Portfolio] (https://github.com/oshion/vuejs-portfolio)
-- [🔗 Project 2 - Toy Project(개발중)] (https://github.com/oshion/nuxt-beforetravel/tree/master)
+- [🔗 Project 2 - Toy Project] (https://github.com/oshion/nuxt-beforetravel/tree/master)
+- [🔗 Project 3 - 가구 이미지 검색] (https://github.com/oshion/furnitureimagesearch)
 
 ## 💻 Linux Server Scripts
 - [🔗 Script 1 - My Favorite Commands] (https://github.com/oshion/linux-command)
