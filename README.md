@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 ## 😄 It's me!
 Portfolio - (https://inhoochoi.com/)
 
+## 🛠️ TypeScript & Web Application Projects
+- [🔗 Project 1 - BitKitTools] (https://github.com/oshion/BitKitTools) - TypeScript 기반의 개발/유틸리티 도구 프로젝트
+- [🔗 Project 2 - Sipfully] (https://github.com/oshion/Sipfully) - TypeScript 기반의 서비스 및 웹 애플리케이션 프로젝트
+- [🔗 Project 3 - Sipfully Legal Pages] (https://github.com/oshion/sipfully-legal) - Sipfully 서비스의 Legal / Policy 페이지
+- [🔗 Project 3 - Aizaran] (https://github.com/oshion/Aizaran) - TypeScript 기반의 Aizaran 프로젝트
+- 
+## 📦 Nowentory Projects
+- [🔗 Project 1 - Nowentory Client] (https://github.com/oshion/nowentory-client) - Nowentory 서비스의 클라이언트 애플리케이션
+- [🔗 Project 2 - Nowentory Server] (https://github.com/oshion/nowentory-server) - Java 기반의 Nowentory 백엔드 서버 애플리케이션
+- 
+## 🤖 Coding Test & AI Experiments
+- [🔗 Project 1 - Harness Coding Test] (https://github.com/oshion/harness_coding_test) - Python 기반의 코딩 테스트 및 문제 해결 프로젝트
+- [🔗 Project 2 - Bedrock Test] (https://github.com/oshion/redrocktest) - Amazon Bedrock 및 생성형 AI 관련 기능 테스트 프로젝트
+- 
+## 📱 iOS Practice Projects
+- [🔗 Project 1 - iOS Practice] (https://github.com/oshion/ios) - iOS 애플리케이션 개발 및 Swift 학습을 위한 연습 프로젝트
+
 ## 🚀 Spring Boot Application Structure
 - [🔗 Structure 1 - SpringBoot MultiModule]
 - [🔗 Structure 2 - SpringBoot DataBase Duplexing]
@@ -45,22 +62,7 @@ Portfolio - (https://inhoochoi.com/)
 - [🔗 Script 5 - Tomcat Config] (https://github.com/oshion/linux-tomcat-config)
 - [🔗 Script 6 - Ngixn Config] (https://github.com/oshion/linux-ngnix-config)
 
-## 🛠️ TypeScript & Web Application Projects
-- [🔗 Project 1 - BitKitTools] (https://github.com/oshion/BitKitTools) - TypeScript 기반의 개발/유틸리티 도구 프로젝트
-- [🔗 Project 2 - Sipfully] (https://github.com/oshion/Sipfully) - TypeScript 기반의 서비스 및 웹 애플리케이션 프로젝트
-- [🔗 Project 3 - Sipfully Legal Pages] (https://github.com/oshion/sipfully-legal) - Sipfully 서비스의 Legal / Policy 페이지
-- [🔗 Project 3 - Aizaran] (https://github.com/oshion/Aizaran) - TypeScript 기반의 Aizaran 프로젝트
-- 
-## 📦 Nowentory Projects
-- [🔗 Project 1 - Nowentory Client] (https://github.com/oshion/nowentory-client) - Nowentory 서비스의 클라이언트 애플리케이션
-- [🔗 Project 2 - Nowentory Server] (https://github.com/oshion/nowentory-server) - Java 기반의 Nowentory 백엔드 서버 애플리케이션
-- 
-## 🤖 Coding Test & AI Experiments
-- [🔗 Project 1 - Harness Coding Test] (https://github.com/oshion/harness_coding_test) - Python 기반의 코딩 테스트 및 문제 해결 프로젝트
-- [🔗 Project 2 - Bedrock Test] (https://github.com/oshion/redrocktest) - Amazon Bedrock 및 생성형 AI 관련 기능 테스트 프로젝트
-- 
-## 📱 iOS Practice Projects
-- [🔗 Project 1 - iOS Practice] (https://github.com/oshion/ios) - iOS 애플리케이션 개발 및 Swift 학습을 위한 연습 프로젝트
+
 
 
 
